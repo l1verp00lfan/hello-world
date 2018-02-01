@@ -1,2 +1,2 @@
 # hello-world
-Learning Git adn GitHub on the Github Website
+Learning Git and GitHub on the Github Website
