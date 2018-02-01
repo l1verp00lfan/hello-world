@@ -1,2 +1,2 @@
 # hello-world
-LEarning git ont eh Git hub site
+Learning Git adn GitHub on the Github Website
